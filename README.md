@@ -8,7 +8,7 @@ Download Visual Studio Code
 
 Start the Visual Studio Code app
 
-File >> Open Project solution/ Folder
+File >> Open Project Folder
 
 Open the Terminal
 
